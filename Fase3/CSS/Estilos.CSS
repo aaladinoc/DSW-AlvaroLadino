@@ -185,15 +185,16 @@ aside{
     flex-direction: column;
     justify-content: flex-start;
    
+   
 }
-center {
-    display:block;
-    margin:auto;
-    
-    
-  
+
+.google {
+    display: block;
+    margin: auto;
 } 
-  
+
+
+
  aside .forma {
 
         height: none;
