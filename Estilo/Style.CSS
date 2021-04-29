@@ -1,0 +1,64 @@
+
+.container{
+    
+    max-width: 1500px;
+    border: 5px solid rgba(32, 203, 209, 0.671);
+    margin: auto;
+}
+ .encabezado{
+    background-image: url("Imagenes/Encabezado.jfif") ; 
+    display: flex;
+    width: 100%;
+    padding: 20px;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+header .logo{
+    color: white;
+    font-size: 40px;
+   
+
+    }
+header .logo img {
+    width: 80px;
+    vertical-align: top;
+}
+header .logo a {
+    color: white;
+    text-decoration: none;
+    line-height: 50px;
+  
+}
+
+
+.titulo{
+    text-align: center;
+}
+
+
+
+ th, td {
+    
+    border: 5px solid black;
+  
+ }
+
+ tr {
+    border: black 5px solid;
+  }
+
+footer{
+       flex: 100%;
+       padding: 1em;
+       text-align: center;
+       background-color: blue;
+       color: white;
+       
+
+   }
+
+
+     
